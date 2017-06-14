@@ -1,0 +1,17 @@
+{
+	"debug" : true,
+	"ipv6" : false,
+	"host" : "10.140.65.15",
+	"port" : 8080,
+	"encrypt" : false,
+	"timeout" : 60,
+	"path" : "/reports",
+	"username" : "admin",
+	"password" : "password",
+	"push_interval" : 20,
+	"refresh_interval" : 20,
+	"row_limit" : 10,
+	"controllerStrId" : "IoT",
+	"eth_iface" : "eth0",
+	"rf_iface" : "tun6"
+}
